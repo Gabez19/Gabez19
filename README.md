@@ -11,11 +11,11 @@
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 🔥 Apaixonado por desenvolvimento web e mobile
 - 🚀 Atualmente estudando: **React**, **Node.js** e **Firebase**
-- 📍 Localizado: Brasília - DF, Brasil
+- 📍 Brasília - DF, Brasil
 
 ---
 
-### 🚀 Tecnologias e Ferramentas:
+### 🚀 Tecnologias e Ferramentas que uso:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -24,23 +24,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <!-- Adicione mais conforme for aprendendo -->
 </p>
 
 ---
 
 ### 🌎 Onde me encontrar:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbza/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabez19)
 
 ---
 
 ### 📊 Estatísticas do GitHub:
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gabez19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabez19&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+---
+
+### 🐍 Snake de Contribuições:
+
+![snake gif](https://github.com/Gabez19/Gabez19/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

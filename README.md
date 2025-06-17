@@ -44,11 +44,8 @@
 
 ---
 
-### 🐍 Snake de Contribuições:
+![snake gif](https://raw.githubusercontent.com/Gabez19/Gabez19/main/output/github-contribution-grid-snake.svg)
 
-![snake gif](https://github.com/Gabez19/Gabez19/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 🎯 Meta para 2025:
 

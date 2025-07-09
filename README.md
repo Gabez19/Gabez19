@@ -11,7 +11,7 @@
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 🔥 Apaixonado por desenvolvimento web e mobile
 - 🚀 Atualmente estudando: **React**, **Node.js** e **Firebase**
-- 📍 Brasília - DF, Brasil
+- 📍  Brasília - DF, Brasil
 
 ---
 

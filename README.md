@@ -42,4 +42,4 @@
 ### 🎯 Metas para 2026:
 - 📱 Publicar primeiro app Android com Kotlin
 - 🎨 Aprofundar em UX/UI e Design de Produto
-- 💼 Conquistar estágio na área de tecnologia
+- 💼 Conquistar uma vaga na área de tecnologia
